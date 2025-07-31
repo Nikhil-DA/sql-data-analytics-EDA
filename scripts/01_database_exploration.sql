@@ -1,8 +1,8 @@
 /*
 ===============================================================================
 Project: Business Retail (BR) Data - EDA (Database Exploration)
-Author: Your Name
-Date: YYYY-MM-DD
+Author: Nilhil Chauhan
+Date: 2003-02-16
 ===============================================================================
 Purpose:
     - To explore the structure of the 'dwh' database (Business Retail Data).
