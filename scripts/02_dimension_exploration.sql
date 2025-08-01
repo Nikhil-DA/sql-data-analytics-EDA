@@ -1,6 +1,5 @@
-/*
-===============================================================================
-Project: Business Retail (BR) Data - EDA (Dimension Exploration)
+/*===============================================================================
+ 02- Dimension Analysis
 ===============================================================================
 Purpose:
     - To explore key dimension tables in the 'dwh' database (Business Retail Data).
