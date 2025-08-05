@@ -100,7 +100,7 @@ Each script is modular and production-ready, enabling direct connection to a BI 
 
 ## 🔗 Related Projects
 
-- 🔨 [Data Warehouse Project (Gold Schema Build)](#)
+- 🔨 [Data Warehouse Project](https://github.com/Nikhil-DA/sql-data-warehouse-project)
 - 📊 [Power BI Dashboard (Connected to Output Queries)](#)
 
 ---
@@ -109,8 +109,8 @@ Each script is modular and production-ready, enabling direct connection to a BI 
 
 **Nikhil Chauhan**  
 🎓 Master's in Statistics | Aspiring Data Analyst  
-🔗 GitHub: https://github.com/Nikhil-DA
-📬 Email: chauhannikhil.email@gmail.com
+🔗 GitHub: (https://github.com/Nikhil-DA)
+📬 Email: (chauhannikhil.email@gmail.com)
 
 ---
 
