@@ -109,7 +109,7 @@ Each script is modular and production-ready, enabling direct connection to a BI 
 
 **Nikhil Chauhan**  
 🎓 Master's in Statistics | Aspiring Data Analyst  
-🔗 GitHub:
+🔗 GitHub: https://github.com/Nikhil-DA
 📬 Email: chauhannikhil.email@gmail.com
 
 ---
